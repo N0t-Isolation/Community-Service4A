@@ -1,0 +1,199 @@
+
+    h1 {
+        color:rgb(119, 119, 119);
+        text-align: center;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    }
+    h2{
+        text-align: center;
+        color: rgb(119, 119, 119);
+        font-family: cursive;
+    }
+    h5{
+        text-align: center;
+        font-size: 25px;
+        font-family: cursive;
+        color: rgb(51, 19, 196);
+    }
+    .mentions{
+        size: 50%;
+        display: flex;
+        flex-wrap: wrap;
+
+    }
+    .pict{
+        max-width: 200px;
+        max-height: 200px;
+    }
+    .honorable{
+    border: 20px;
+    border-radius: 15px;
+    border-style: groove;
+    border-color: indianred;
+    background-color: rgba(224, 54, 54, 0.445);
+    padding: 10px;
+    margin-left: 400px;
+    margin-right: 400px;
+    }
+    tr,th,td{
+        color: yellow;
+        font-family: cursive;
+        border: 3px solid whitesmoke;
+        border-collapse: collapse;
+        border-radius: 5px;
+    }
+    .main-head {
+        background-color: rgb(243, 243, 243); padding-left: 10px;
+        padding-top: 3px; padding-bottom   : 3px;
+        border-radius: 3px;
+    }
+    .head-inf {
+        text-align: left; 
+        color: rgb(235, 231, 19);
+    }
+    .head-inf a {
+        padding: 0;
+        text-decoration: wavy;
+        color: yellow;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 50px; 
+    }
+    footer {
+        background-image: linear-gradient(transparent,lightgray,lightgrey);
+    }
+    .main-footer {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+    .left-footer{
+        margin-left: auto;
+        margin-right: 40px;
+    }
+    .center-footer{
+        margin-right: 20px;
+        margin-left: 20px;
+    }
+    .info-left{
+        text-align: left;
+        width: 100%;
+    }
+    div.relative {
+        position: relative;
+        border: 3px solid yellow;
+        width: 200px;
+        height: 300px;
+        color: azure;
+    }
+    nav {
+        width: 200px;
+        margin: 0;
+        padding: 0;
+    }
+    a {
+        display: block;
+        background-color: lightgray;
+        color: black;
+        padding: 4px;
+    }
+    a:hover {
+        background-color: azure;
+    }
+    .container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+    .tab {
+        background-image: linear-gradient(to bottom right, darkgray,rgb(44, 44, 44));
+        width: 400px;
+        padding: 40px;
+        justify-content: center;
+        align-items: center;
+        border: solid white;
+        border-radius: 10px;
+        margin: 5px;
+        margin-top: 5px;
+    }
+    h1.name {
+        font-size: 35px;
+        letter-spacing: 4px;
+        margin-bottom: 20px;
+        color: ivory;
+        font-family: cursive;
+        background-color: transparent;
+    }
+    h2.price {
+        font-size: 48px;
+        color: darkorange;
+    }
+    .list {
+        list-style-type:square;
+        margin-bottom: 50px;
+        text-align: left;
+    }
+    .list li {
+        margin-top: 20px;
+        color:aliceblue
+    }
+    hr{
+            height: 10px;
+            width: 81%;
+            margin: auto;
+            background-color: grey;
+            border: none;
+            border-radius: 55px;
+            margin-top: 25px;
+    }
+    div.about {
+        display: flex;
+        justify-content: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 5px;
+        margin-bottom: 30px;
+        background-image: radial-gradient(darkslategray,transparent,transparent);
+        width: 80%;
+    }
+    .about {
+        text-align: left;
+        color:azure;
+        padding: 10px;
+        width: 100%;
+    }
+    div.image-about {
+        margin-bottom: auto;
+        margin-top: auto;
+    }
+    img.about-us{
+        max-width: 100%;
+        max-height: 100%;
+    }
+    button {
+        background-color:rgb(170, 26, 26); border: 2px solid rgb(63, 63, 63); color: rgb(255, 255, 255);
+        font-size: 20px;
+        border-radius: 5px;
+        padding: 5px 8px;
+        border-radius: 5px;
+        box-shadow: 0px 10px grey;
+        cursor: pointer;
+    }
+    button:hover {
+        background-color: rgb(241, 46, 32);
+        color: white;
+        opacity: 0.85;
+    }
+    button:active {
+        transform: translateY(7px);
+        box-shadow: 0px 3px grey;
+    }
+    .video {
+        display: flex;
+        justify-content: center;
+    }
+    video{
+        padding: 10px;
+        border-radius: 5px;
+    }
