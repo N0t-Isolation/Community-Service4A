@@ -56,7 +56,8 @@
     .head-inf {
         text-align: center; 
         color: darkgray;
-        padding: 3px 10px;
+        padding: 3px, 5px;
+        margin: auto, 10px
     }
     .head-inf a {
         padding: 2px;
