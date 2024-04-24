@@ -50,7 +50,7 @@
     }
     .head-inf {
         text-align: left; 
-        color: rgb(235, 231, 19);
+        color: lightgrey;
     }
     .head-inf a {
         padding: 0;
