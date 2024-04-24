@@ -57,7 +57,6 @@
         text-align: center; 
         color: darkgray;
         padding: 3px, 5px;
-        margin: auto, 10px
     }
     .head-inf a {
         padding: 2px;
@@ -65,6 +64,7 @@
         color: yellow;
         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
         font-size: 20px; 
+        margin: auto, 50px;
     }
     @media (max-width: 300px) {
         *{
