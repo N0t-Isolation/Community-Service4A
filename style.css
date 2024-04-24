@@ -47,6 +47,7 @@
         background-color: rgb(243, 243, 243); padding-left: 10px;
         padding-top: 3px; padding-bottom: 3px;
         border-radius: 3px;
+        position: relative;
     }
     .head-inf {
         text-align: left; 
