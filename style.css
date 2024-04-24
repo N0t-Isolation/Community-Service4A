@@ -59,11 +59,11 @@
         padding: 3px 10px
     }
     .head-inf a {
-        padding: 0;
+        padding: 2px;
         text-decoration: wavy;
         color: yellow;
         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-        font-size: 35px; 
+        font-size: 15px; 
     }
     @media (max-width: 300px) {
         *{
