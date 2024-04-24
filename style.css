@@ -54,8 +54,9 @@
         justify-content: center;
     }
     .head-inf {
-        text-align: left; 
+        text-align: center; 
         color: darkgray;
+        width: 60%;
     }
     .head-inf a {
         padding: 0;
