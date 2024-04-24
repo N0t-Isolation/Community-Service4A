@@ -56,14 +56,14 @@
     .head-inf {
         text-align: center; 
         color: darkgray;
-        padding: 3px 10px
+        padding: 3px 5px
     }
     .head-inf a {
         padding: 2px;
         text-decoration: wavy;
         color: yellow;
         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-        font-size: 15px; 
+        font-size: 20px; 
     }
     @media (max-width: 300px) {
         *{
