@@ -48,6 +48,7 @@
         padding-top: 3px; padding-bottom: 3px;
         border-radius: 3px;
         position: relative;
+        width: 65%;
     }
     .head-inf {
         text-align: left; 
