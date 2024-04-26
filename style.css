@@ -211,7 +211,8 @@
         justify-content: center;
     }
     video{
-        padding: 15px;
+        padding: 5px;
         border-radius: 5px;
         border: 3px solid black;
+        margin: 5px
     }
