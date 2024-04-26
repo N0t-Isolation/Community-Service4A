@@ -64,7 +64,7 @@
         color: yellow;
         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
         font-size: 20px; 
-        margin: auto, 500px;
+        margin: auto auto;
         max-width: 95%;
     }
     @media (max-width: 300px) {
